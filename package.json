@@ -1,7 +1,7 @@
 {
   "name": "component-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jrk308"
+    "@jrk308:registry": "https://npm.pkg.github.com"
   },
   "version": "1.0.0",
   "description": "Component library for nextjs project using MUI",
